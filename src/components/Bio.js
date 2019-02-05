@@ -8,7 +8,7 @@ const Bio = ({ texts }) => (
       <Header as='h1'>Markus Kuosmanen</Header>
       <Container style={{ fontSize: 'medium' }}>{texts[0]}</Container>
       <Divider hidden />
-      <Item as='a' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>
+      <Item as='a' href='http://travel-tracking.herokuapp.com/'>
         <Icon name='plane' size='huge' />
         <Container>{texts[1]}</Container>
         {texts[2]}
