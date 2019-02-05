@@ -34,10 +34,12 @@ const Images = [
     <Image src={react} size={'small'} centered />
     <Divider hidden />
     <Divider hidden />
+    <Divider hidden />
     <Image src={redux} size={'small'} centered />
   </Container>,
   <Container>
     <Image src={node} size={'small'} centered />
+    <Divider hidden />
     <Image src={mongo} size={'medium'} centered />
   </Container>,
   <Container>
