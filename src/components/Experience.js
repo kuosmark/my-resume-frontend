@@ -6,12 +6,12 @@ const Experience = ({ texts }) => (
   <Container style={{ fontSize: 'medium' }}>
     <Grid celled verticalAlign='middle' columns={2}>
       <AddExperienceRow
-        icon='fork'
+        icon='users'
         firstText={texts[0]}
         secondText={texts[1]}
       />
       <AddExperienceRow
-        icon='users'
+        icon='fork'
         firstText={texts[2]}
         secondText={texts[3]}
       />
