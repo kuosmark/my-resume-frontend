@@ -9,7 +9,7 @@ const Bio = ({ texts }) => (
       <Header as='h3'>{texts[0]}</Header>
       <Container>{texts[1]}</Container>
       <Divider hidden />
-      <Item as='a' href='http://travel-tracking.herokuapp.com/'>
+      <Item as='a' href='https://travel-tracking.herokuapp.com/'>
         <Icon name='plane' size='huge' />
         <Container>{texts[2]}</Container>
         {texts[3]}
