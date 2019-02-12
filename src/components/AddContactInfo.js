@@ -6,7 +6,7 @@ const AddContactInfo = () => (
   <Grid centered>
     <Grid.Row>
       <Grid.Column>
-        <Image src={markus} size={'medium'} centered circular bordered />
+        <Image src={markus} size='medium' centered circular bordered />
       </Grid.Column>
     </Grid.Row>
     <Grid.Row>
@@ -16,7 +16,7 @@ const AddContactInfo = () => (
           href='https://github.com/kuosmark'
           style={{ color: 'black' }}>
           <Item.Content verticalAlign='middle'>
-            <Icon name='github' size={'huge'} />
+            <Icon name='github' size='huge' />
             <b>github.com/kuosmark</b>
           </Item.Content>
         </Item>
@@ -25,13 +25,13 @@ const AddContactInfo = () => (
           href='mailto:markus.kuosmanen@helsinki.fi'
           style={{ color: 'black' }}>
           <Item.Content verticalAlign='middle'>
-            <Icon name='mail' size={'big'} />
+            <Icon name='mail' size='big' />
             <b>markus.kuosmanen@helsinki.fi</b>
           </Item.Content>
         </Item>
         <Item>
           <Item.Content verticalAlign='middle'>
-            <Icon name='phone' size={'big'} />
+            <Icon name='phone' size='big' />
             <b>+358405569570</b>
           </Item.Content>
         </Item>
