@@ -1,2 +1,2 @@
 # My Resume front-end
-My online resume front-end built using React and Semantic.ui.
+[My online resume front-end built using React and Semantic.ui.](https://kuosmanen.herokuapp.com)
